@@ -398,7 +398,7 @@
             this.expToolStripMenuItem.ForeColor = System.Drawing.SystemColors.Desktop;
             this.expToolStripMenuItem.Name = "expToolStripMenuItem";
             this.expToolStripMenuItem.Size = new System.Drawing.Size(120, 39);
-            this.expToolStripMenuItem.Text = "Hướng dẫn";
+            this.expToolStripMenuItem.Text = "Bỏ cuộc !!!";
             this.expToolStripMenuItem.Click += new System.EventHandler(this.expToolStripMenuItem_Click);
             // 
             // richTextBox1
